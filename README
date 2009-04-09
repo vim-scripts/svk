@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2604
+
+Package includes syntax file for svk commit file and  two functions for adding files that are not under source control to commit (and vice-versa)
